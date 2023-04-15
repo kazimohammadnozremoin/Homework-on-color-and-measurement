@@ -1,0 +1,49 @@
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: red;
+}
+
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: #000000;
+}
+
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: rgb(00,00,00);
+}
+
+
+
+.box{
+	width: 200pt;
+	height: 100pt;
+	background-color: darkred;
+}
+
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: rgba(00,00,00,.3);
+}
+
+.box{
+	width: 15em;
+	height: 10em;
+	background-color: darkred;
+}
+
+.box{
+	width: 15rem;
+	height: 10rem;
+	background-color: rgba(00,00,00,.5);
+}
+
+.box{
+	width: 50%;
+	height: 100px;
+	background-color: darkred;
+}
